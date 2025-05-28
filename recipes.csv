@@ -1,0 +1,70 @@
+Recipe Name,Ingredients,Quantity per Serving,Instructions,Time (mins),Difficulty
+Butter Chicken,"Chicken, Butter, Tomato, Cream, Ginger, Garlic, Spices","Chicken-200g, Butter-50g, Tomato-100g, Cream-30ml","Cook chicken, blend tomato and spices, add cream and butter, simmer until thickened.",45,Medium
+Chicken Tikka,"Chicken, Yogurt, Ginger, Garlic, Lemon, Spices","Chicken-150g, Yogurt-50g, Lemon-10ml","Marinate chicken in yogurt and spices, grill or bake until golden brown.",40,Medium
+Chole Bhature,"Chickpeas, Flour, Yeast, Spices, Oil, Onion","Chickpeas-200g, Flour-100g, Onion-50g","Cook chickpeas with spices, make dough for bhature, fry until puffed, serve with chickpeas.",60,High
+Aloo Gobi,"Potato, Cauliflower, Tomato, Ginger, Spices","Potato-100g, Cauliflower-100g, Tomato-50g","Cook potato and cauliflower with spices and tomatoes, simmer until tender.",30,Easy
+Palak Paneer,"Spinach, Paneer, Garlic, Onion, Cream, Spices","Spinach-200g, Paneer-100g, Cream-20ml","Blend spinach into puree, cook with paneer and spices, add cream and simmer.",40,Medium
+Tandoori Chicken,"Chicken, Yogurt, Lemon, Ginger, Garlic, Spices","Chicken-200g, Yogurt-50g, Lemon-10ml","Marinate chicken in yogurt, spices, and lemon juice, cook in tandoor or oven until charred.",50,Medium
+Masoor Dal,"Red Lentils, Garlic, Onion, Tomato, Spices","Lentils-100g, Garlic-5g, Tomato-50g","Cook lentils with garlic, onion, tomato, and spices, simmer until soft and creamy.",30,Easy
+Pani Puri,"Semolina, Potato, Chickpeas, Tamarind, Spices, Water","Semolina-100g, Potato-50g, Chickpeas-50g","Make puris with semolina, prepare spiced water, stuff puris with potato and chickpeas, serve.",45,Medium
+Rajma,"Kidney Beans, Tomato, Onion, Garlic, Spices","Kidney Beans-200g, Tomato-100g, Onion-50g","Soak kidney beans overnight, cook with tomato, onion, garlic, and spices until tender.",50,Medium
+Bhindi Masala,"Okra, Tomato, Onion, Spices","Okra-200g, Tomato-100g, Onion-50g","Sauté okra with onions, tomatoes, and spices, cook until tender.",30,Easy
+Poha,"Flattened Rice, Onion, Potato, Peanuts, Spices","Flattened Rice-100g, Onion-50g, Potato-50g","Soak poha, cook with onions, potatoes, peanuts, and spices, serve warm.",20,Easy
+Paneer Butter Masala,"Paneer, Butter, Tomato, Cream, Spices","Paneer-200g, Butter-50g, Tomato-100g, Cream-30ml","Cook paneer with tomato-based creamy sauce, add butter and spices, simmer.",45,Medium
+Samosa,"Flour, Potato, Peas, Spices, Oil","Flour-100g, Potato-100g, Peas-50g","Make dough with flour, prepare potato-pea filling, shape and deep-fry samosas.",60,High
+Dal Makhani,"Black Lentils, Cream, Butter, Tomato, Spices","Black Lentils-200g, Cream-30ml, Butter-50g","Soak black lentils, slow-cook with butter, cream, and spices for a rich texture.",90,High
+Rasgulla,"Milk, Sugar, Lemon, Water","Milk-500ml, Sugar-200g, Lemon-20ml","Curdle milk to make chhena, shape into balls, cook in sugar syrup until spongy.",60,High
+Gajar Ka Halwa,"Carrot, Milk, Sugar, Ghee, Nuts","Carrot-200g, Milk-500ml, Sugar-100g","Grate carrots, cook with milk and sugar, add ghee and nuts, simmer until thick.",60,Medium
+Gulab Jamun,"Milk Powder, Flour, Sugar, Cardamom","Milk Powder-100g, Flour-50g, Sugar-200g","Make dough with milk powder and flour, shape balls, deep-fry and soak in sugar syrup.",60,High
+Kheer,"Rice, Milk, Sugar, Cardamom, Nuts","Rice-100g, Milk-500ml, Sugar-100g","Cook rice with milk and sugar, add cardamom and nuts, simmer until creamy.",50,Medium
+Dhokla,"Chickpea Flour, Yogurt, Spices, Baking Soda","Chickpea Flour-200g, Yogurt-100g","Mix chickpea flour with yogurt, ferment, steam, and temper with mustard seeds.",40,Medium
+Upma,"Semolina, Vegetables, Spices, Water","Semolina-100g, Vegetables-50g","Roast semolina, cook with vegetables and spices, add water and simmer.",25,Easy
+Rava Kesari,"Semolina, Sugar, Ghee, Saffron","Semolina-100g, Sugar-100g, Ghee-50g","Roast semolina, cook with sugar syrup, add ghee and saffron, stir until thick.",30,Easy
+Biryani,"Rice, Meat/Vegetables, Spices, Yogurt, Saffron","Rice-200g, Meat-200g, Yogurt-50g","Layer rice with marinated meat and spices, cook on dum (slow heat).",90,High
+Pongal,"Rice, Moong Dal, Spices, Ghee","Rice-200g, Moong Dal-100g, Ghee-50g",Cook rice and moong dal with spices and ghee until soft.,40,Medium
+Vada Pav,"Potato, Flour, Spices, Bread","Potato-100g, Flour-50g, Bread-1 piece","Make spiced potato filling, coat with flour batter, deep-fry, serve in bread roll.",30,Easy
+Pesarattu,"Green Gram, Rice, Spices","Green Gram-100g, Rice-50g","Soak green gram and rice, grind into batter, make thin dosas on a hot pan.",30,Easy
+Modak,"Rice Flour, Coconut, Jaggery, Cardamom","Rice Flour-100g, Coconut-50g, Jaggery-50g","Make rice flour dough, stuff with coconut and jaggery mix, steam until cooked.",40,Medium
+Murukku,"Rice Flour, Urad Dal Flour, Spices","Rice Flour-200g, Urad Dal Flour-50g","Make dough, shape into spirals, deep-fry until crispy.",50,Medium
+Adai,"Rice, Lentils, Spices","Rice-100g, Lentils-100g","Soak rice and lentils, grind into batter, make thick pancakes on a hot pan.",40,Medium
+Neer Dosa,"Rice, Water, Salt","Rice-100g, Water-200ml","Soak and grind rice, make thin dosas on a non-stick pan.",30,Easy
+Payasam,"Rice, Milk, Sugar, Jaggery, Cardamom","Rice-100g, Milk-500ml, Jaggery-100g","Cook rice with milk and jaggery, add cardamom, simmer until thick.",45,Medium
+Banana Chips,"Banana, Oil, Salt","Banana-2, Oil-200ml, Salt-5g","Slice bananas, deep-fry in oil, season with salt.",30,Easy
+Puttu,"Rice Flour, Coconut, Water","Rice Flour-100g, Coconut-50g","Layer rice flour and coconut in a steamer, steam until cooked.",30,Easy
+Paratha,"Flour, Oil, Stuffing (Potato, Paneer, etc.)","Flour-100g, Stuffing-100g","Make dough, stuff with filling, roll out, cook on tawa with oil.",40,Medium
+Roti,"Whole Wheat Flour, Water, Salt","Flour-100g, Water-50ml","Knead dough, roll into discs, cook on a hot tawa.",20,Easy
+Here are 35 additional Indian recipes in the same format, ensuring they are not in your original list:  ,,,,
+Baingan Bharta,"Eggplant, Tomato, Onion, Spices","Eggplant-200g, Tomato-100g, Onion-50g","Roast eggplant, mash with sautéed onions, tomatoes, and spices, cook until blended.",40,Medium
+Malai Kofta,"Paneer, Potato, Cream, Spices","Paneer-150g, Potato-100g, Cream-30ml","Make paneer-potato balls, deep-fry, prepare creamy tomato sauce, simmer.",50,High
+Kadhi Pakora,"Chickpea Flour, Yogurt, Spices, Onion","Chickpea Flour-100g, Yogurt-100g, Onion-50g","Make yogurt-chickpea flour gravy, prepare fried pakoras, simmer together.",45,Medium
+Aloo Paratha,"Flour, Potato, Spices, Butter","Flour-100g, Potato-100g, Butter-10g","Stuff spiced mashed potatoes in dough, roll out, cook on tawa with butter.",40,Medium
+Misal Pav,"Sprouts, Onion, Tomato, Pav, Spices","Sprouts-100g, Onion-50g, Pav-1 piece","Cook sprouts in spicy gravy, serve with chopped onions and pav.",50,Medium
+Khandvi,"Chickpea Flour, Yogurt, Spices","Chickpea Flour-100g, Yogurt-100g","Cook batter, spread thinly, roll up and temper with mustard seeds.",40,Medium
+Thepla,"Whole Wheat Flour, Fenugreek, Spices","Flour-100g, Fenugreek-50g","Knead dough with spices and fenugreek, roll into flatbreads, cook on tawa.",30,Easy
+Sev Puri,"Puris, Potato, Onion, Tamarind Chutney, Sev","Puris-6, Potato-50g, Sev-20g","Top puris with mashed potatoes, chutneys, onions, and sev.",20,Easy
+Batata Vada,"Potato, Flour, Spices, Oil","Potato-100g, Flour-50g","Make spiced potato balls, dip in flour batter, deep-fry.",30,Medium
+Undhiyu,"Mixed Vegetables, Spices, Oil","Vegetables-200g, Spices-10g",Slow cook seasonal vegetables with spices and methi dumplings.,60,High
+Moong Dal Halwa,"Moong Dal, Ghee, Sugar, Nuts","Moong Dal-100g, Ghee-50g, Sugar-100g","Roast moong dal in ghee, cook with sugar and nuts until thick.",60,High
+Jalebi,"Flour, Sugar, Yogurt, Saffron","Flour-100g, Sugar-200g","Ferment flour batter, deep-fry in spiral shapes, soak in sugar syrup.",60,High
+Shahi Tukda,"Bread, Milk, Sugar, Nuts","Bread-2 slices, Milk-200ml, Sugar-50g","Fry bread slices, soak in thickened milk, garnish with nuts.",40,Medium
+Besan Ladoo,"Chickpea Flour, Ghee, Sugar, Nuts","Chickpea Flour-100g, Ghee-50g, Sugar-100g","Roast chickpea flour in ghee, mix with sugar, shape into balls.",40,Medium
+Nankhatai,"Flour, Sugar, Ghee, Cardamom","Flour-100g, Sugar-50g, Ghee-50g","Mix flour, sugar, and ghee into dough, shape cookies, bake until golden.",30,Easy
+Chana Masala,"Chickpeas, Tomato, Onion, Spices","Chickpeas-200g, Tomato-100g, Onion-50g",Cook chickpeas in onion-tomato gravy with spices until thick.,50,Medium
+Baati,"Whole Wheat Flour, Ghee, Baking Powder","Flour-100g, Ghee-50g","Make dough balls, bake until crisp, serve with dal.",60,Medium
+Laapsi,"Broken Wheat, Sugar, Ghee, Cardamom","Broken Wheat-100g, Sugar-50g, Ghee-50g",Cook broken wheat with ghee and sugar until thick.,40,Easy
+Dal Baati Churma,"Whole Wheat Flour, Dal, Ghee, Sugar","Flour-100g, Dal-100g, Ghee-50g","Bake baatis, serve with dal, and ground sweet churma.",70,High
+Pesarapappu Payasam,"Moong Dal, Jaggery, Coconut Milk","Moong Dal-100g, Jaggery-100g, Coconut Milk-100ml","Cook moong dal with jaggery, add coconut milk, simmer.",50,Medium
+Sabudana Khichdi,"Tapioca Pearls, Peanuts, Potato, Spices","Sabudana-100g, Peanuts-50g, Potato-50g","Soak sabudana, cook with potatoes, peanuts, and spices.",30,Easy
+Makki Di Roti,"Maize Flour, Water, Ghee","Maize Flour-100g, Water-50ml","Knead maize flour dough, roll out, cook on tawa with ghee.",40,Medium
+Sarson Da Saag,"Mustard Greens, Spinach, Butter, Spices","Mustard Greens-200g, Butter-50g","Cook mustard greens and spinach, blend with spices, serve with butter.",50,Medium
+Aamras,"Mango, Sugar, Cardamom","Mango-200g, Sugar-50g","Blend mango pulp with sugar and cardamom, chill before serving.",20,Easy
+Thandai,"Milk, Almonds, Saffron, Spices","Milk-200ml, Almonds-50g","Blend almonds, saffron, and spices into milk, chill before serving.",30,Easy
+Kachori,"Flour, Lentils, Spices, Oil","Flour-100g, Lentils-50g","Make dough, stuff with lentil mixture, deep-fry until crisp.",60,High
+Chettinad Chicken,"Chicken, Coconut, Spices","Chicken-200g, Coconut-50g",Cook chicken with coconut and Chettinad spices until tender.,50,Medium
+Chicken Curry,"Chicken, Onion, Tomato, Spices","Chicken-200g, Onion-100g, Tomato-100g",Cook chicken in onion-tomato gravy with spices until tender.,50,Medium
+Mutton Rogan Josh,"Mutton, Yogurt, Spices","Mutton-200g, Yogurt-50g",Cook mutton in aromatic spices and yogurt until tender.,90,High
+Kosha Mangsho,"Mutton, Mustard Oil, Onion, Spices","Mutton-200g, Mustard Oil-50ml","Slow-cook mutton with mustard oil, onion, and spices.",90,High
+Prawn Curry,"Prawns, Coconut Milk, Spices","Prawns-200g, Coconut Milk-100ml",Cook prawns in coconut milk and spices until done.,40,Medium
+Fish Fry,"Fish, Flour, Spices, Oil","Fish-200g, Flour-50g","Coat fish with spices and flour, deep-fry until crispy.",30,Easy
+Chingri Malai Curry,"Prawns, Coconut Milk, Mustard, Spices","Prawns-200g, Coconut Milk-100ml","Cook prawns in mustard-coconut milk gravy, simmer until thick.",50,Medium
+Bebinca,"Coconut Milk, Flour, Sugar, Eggs","Coconut Milk-200ml, Flour-100g, Sugar-100g","Layer coconut-flour batter, bake until golden brown.",60,High

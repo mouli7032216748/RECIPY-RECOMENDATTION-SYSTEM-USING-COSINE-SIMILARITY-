@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voting Eligibility Check</title>
+    <script>
+        function checkVotingEligibility() {
+            let name = prompt("Enter your name:");
+            let age = parseInt(prompt("Enter your age:"));
+
+            if (!name || isNaN(age)) {
+                alert("Invalid input. Please enter valid details.");
+                return;
+            }
+
+            if (age >= 18) {
+                document.getElementById("result").innerHTML = Hello, ${name}! You are eligible to vote. ✅;
+            } else {
+                document.getElementById("result").innerHTML = Hello, ${name}! You are NOT eligible to vote. ❌;
+            }
+        }
+    </script>
+</head>
+<button onclick="checkVotingEligibility()">click me</button>
+    <h2>Voting Eligibility Check</h2>
+    <p id="result"></p>
+</body>
+</html>
